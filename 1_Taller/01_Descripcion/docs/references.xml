@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources SelectedStyle="" xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography">
+
+<b:Source>
+<b:Tag>IEEESA25</b:Tag>
+<b:SourceType>InternetSite</b:SourceType>
+<b:Guid>{81FA33FE-265F-4D06-BE07-2997D707ADCF}</b:Guid>
+<b:Author>
+<b:Author>
+<b:Corporate>IEEE SA</b:Corporate>
+</b:Author>
+</b:Author>
+<b:Title>About Us - IEEE Standards Association</b:Title>
+<b:Year>2025</b:Year>
+<b:Month>10</b:Month>
+<b:URL>https://standards.ieee.org/about/</b:URL>
+</b:Source>
+
+<b:Source>
+<b:Tag>ANSIIntro</b:Tag>
+<b:SourceType>InternetSite</b:SourceType>
+<b:Guid>{3B7895EE-939C-4BAE-AF61-AEB940F11E93}</b:Guid>
+<b:Title>ANSI Introduction</b:Title>
+<b:URL>https://www.ansi.org/about/introduction</b:URL>
+</b:Source>
+
+<b:Source>
+<b:Tag>IETFIntro</b:Tag>
+<b:SourceType>InternetSite</b:SourceType>
+<b:Guid>{46E7E33C-39E8-4E2E-ABDE-B946711D3F15}</b:Guid>
+<b:Title>Introduction to the IETF</b:Title>
+<b:URL>https://www.ietf.org/about/introduction/</b:URL>
+</b:Source>
+
+<b:Source>
+<b:Tag>ISOAbout</b:Tag>
+<b:SourceType>InternetSite</b:SourceType>
+<b:Guid>{B57D7A87-C263-4B44-AC5B-663EFE109A3B}</b:Guid>
+<b:Title>ISO - About ISO</b:Title>
+<b:URL>https://www.iso.org/about</b:URL>
+</b:Source>
+
+<b:Source>
+<b:Tag>ITUAbout</b:Tag>
+<b:SourceType>InternetSite</b:SourceType>
+<b:Guid>{C15A4658-4102-4971-8D5D-CBDD52ECAF77}</b:Guid>
+<b:Title>About ITU</b:Title>
+<b:URL>https://www.itu.int/en/about/Pages/default.aspx#/es</b:URL>
+</b:Source>
+
+</b:Sources>
